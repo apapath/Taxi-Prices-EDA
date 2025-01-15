@@ -11,7 +11,6 @@ This project is part of the **Big Blue Data Academy** curriculum, where I applie
 
 ## Why This Analysis Matters
 
-### Highlight:
 The taxi and rideshare industries are highly competitive, with companies striving to optimize pricing strategies and operational efficiency. By understanding the factors that influence taxi trip costs and durations, this analysis aims to provide actionable insights for businesses to:
 
 - **Improve Profitability**: Identify peak demand periods and adjust pricing dynamically.
