@@ -9,7 +9,18 @@ Welcome to the **Taxi Prices EDA** project! In this project, I performed an **Ex
 
 This project is part of the **Big Blue Data Academy** curriculum, where I applied various data analysis techniques to uncover meaningful insights for the taxi industry.
 
+## Why This Analysis Matters
+
+### Highlight:
+The taxi and rideshare industries are highly competitive, with companies striving to optimize pricing strategies and operational efficiency. By understanding the factors that influence taxi trip costs and durations, this analysis aims to provide actionable insights for businesses to:
+
+- **Improve Profitability**: Identify peak demand periods and adjust pricing dynamically.
+- **Enhance Customer Experience**: Suggest optimal travel times to minimize costs and delays.
+- **Optimize Operations**: Allocate resources efficiently based on traffic and weather patterns.
+- **Support Strategic Decision-Making**: Help stakeholders design data-driven strategies to outpace competitors.
+
 ## 🔑 Key Highlights
+
 - **Data Cleaning & Preprocessing** 🧹: Addressed missing values and outliers to ensure clean data for analysis.
 - **Univariate & Bivariate Analysis** 🔍: Examined the distribution of taxi prices and trip durations, as well as their relationships with time, weather, and traffic.
 - **Correlation Analysis** 🔗: Identified significant drivers of taxi trip pricing and duration.
